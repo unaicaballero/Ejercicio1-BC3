@@ -1,0 +1,1 @@
+Para este ejercicio solo hay que crear una lista donde introducir diferentes nombres y utilizar un poco el remove para eliminar los nombres que queramos, para posteriormente mostrar todos los nombres.
